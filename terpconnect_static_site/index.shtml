@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Childish Gambino</title>
+    <link rel="icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <p>
+        <strong>Name:</strong> Sean Garbarini<br>
+        <strong>Render Location:</strong> <a href="REPLACE_WITH_YOUR_RENDER_URL">Render Static Site</a><br>
+        <strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
+    </p>
+
+    <h1>Childish Gambino</h1>
+
+    <p>
+        Childish Gambino is the musical stage name of Donald Glover, an American actor, comedian,
+        writer, and musician. His music blends hip hop, funk, R&amp;B, and soul, and he is known
+        for changing styles from one album to the next.
+    </p>
+
+    <h2>Discography</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Album</th>
+                <th>Year</th>
+                <th>Label</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Camp</td>
+                <td>2011</td>
+                <td>Glassnote</td>
+            </tr>
+            <tr>
+                <td>Because the Internet</td>
+                <td>2013</td>
+                <td>Glassnote</td>
+            </tr>
+            <tr>
+                <td>"Awaken, My Love!"</td>
+                <td>2016</td>
+                <td>Glassnote</td>
+            </tr>
+            <tr>
+                <td>3.15.20</td>
+                <td>2020</td>
+                <td>RCA / Wolf+Rothstein</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Music Video</h2>
+
+    <p>
+        <a href="https://www.youtube.com/watch?v=VYOjWnS4cMY" target="_blank">This Is America (Official Video)</a>
+    </p>
+
+    <h2>Recognition</h2>
+
+    <ul>
+        <li>Multiple Grammy Award wins, including Song of the Year and Record of the Year</li>
+        <li>Golden Globe and Primetime Emmy Award recognition for his television work</li>
+        <li>Headlined major festivals including Coachella</li>
+    </ul>
+
+</body>
+
+</html>
